@@ -1,7 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-![](chrome-capture.gif)
+<h1 align="center">
+   <img src="./chrome-capture.gif">
+   <br/>
+      App-untes de Javascript
+   <br>
+</h1>
 
 ## Available Scripts
 
